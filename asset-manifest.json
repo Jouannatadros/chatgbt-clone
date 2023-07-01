@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chatgbt-app-react/static/css/main.e89bdcf7.css",
+    "main.js": "/chatgbt-app-react/static/js/main.4cdd6105.js",
+    "static/js/787.6e6304ff.chunk.js": "/chatgbt-app-react/static/js/787.6e6304ff.chunk.js",
+    "index.html": "/chatgbt-app-react/index.html",
+    "main.e89bdcf7.css.map": "/chatgbt-app-react/static/css/main.e89bdcf7.css.map",
+    "main.4cdd6105.js.map": "/chatgbt-app-react/static/js/main.4cdd6105.js.map",
+    "787.6e6304ff.chunk.js.map": "/chatgbt-app-react/static/js/787.6e6304ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e89bdcf7.css",
+    "static/js/main.4cdd6105.js"
+  ]
+}
