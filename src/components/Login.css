@@ -1,0 +1,57 @@
+.username-input,
+.password-input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid green;
+  outline: none;
+  margin-bottom: 10px;
+}
+
+.login-input-group {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.login-input-group label {
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.login-input {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.login-button {
+  width: 100%;
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.home-button {
+  width: 100%;
+  background-color: #ccc;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.home-button:hover {
+  background-color: #555;
+}
